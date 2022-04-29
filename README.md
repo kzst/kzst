@@ -1,4 +1,4 @@
-My name is **Zsolt T. Kosztyán**.  I am a full professor at University of Pannonia
+My name is **Zsolt T. Kosztyán**.  I am a full professor at University of Pannonia, Hungary.
 
 My research intersts are about management science and quantitative methods.
 
